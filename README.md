@@ -8,6 +8,7 @@ Through refactoring my code to analyze all stocks it becomes obvious that 2017 w
 ### Execution Times
 For data for 2017, the original code ran in .2890625 seconds. With the refactored code, the analysis of 2017 ran over three times faster in just .0703125 seconds.    
 ![2017](Resources/VBA_Challenge_2017.png)
+<br>
 For 2018, the original code ran in .2578125 seconds. With the refactored code it also ran more than three times faster in .078125 seconds.
 ![2018](Resources/VBA_Challenge_2018.png)
 ### Code Improvements
