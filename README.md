@@ -1,3 +1,4 @@
+#stock-analysis
 ##Purpose
 Through VBA macros running complicated excel code is made simple. When Steve wanted to look at a broader selection of stocks, I was easily able to refactor, or modify existing code, to determine returns on the additional stocks. In refactoring the code in VBA, the end-user and coder experiences were improved, as the code processes ran faster and the code itself was better organized and easier to navigate.
 ##Background
