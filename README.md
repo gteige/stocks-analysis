@@ -7,9 +7,9 @@ Steve has been giving advice to family members based on the original code develo
 Through refactoring my code to analyze all stocks it becomes obvious that 2017 was a better year for the stocks in consideration with 11 of the 12 stocks experiencing positive retuns. In contrast, only 2 of the same group experienced positive returns for the year 2018. In refactoring the code, the analysis for both years is completed in a shorter period. 
 ### Execution Times
 For data for 2017, the original code ran in .2890625 seconds. With the refactored code, the analysis of 2017 ran over three times faster in just .0703125 seconds.    
-![2017]()
+![2017](Resources/VBA_Challenge_2017.png)
 For 2018, the original code ran in .2578125 seconds. With the refactored code it also ran more than three times faster in .078125 seconds.
-![2018]()
+![2018](Resources/VBA_Challenge_2018.png)
 ### Code Improvements
 In refactoring the code, the three outputs are initialized as arrays, instead of just variables. 
 ```
